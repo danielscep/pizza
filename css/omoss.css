@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+#about
+{
+  padding-left: 5em;
+  padding-right: 5em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#googlemaps
+{
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+
+  margin-top: 2%;
+  
+}
